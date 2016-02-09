@@ -1,0 +1,10 @@
+E:\As\Sentence_Word_Counter\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.dll.config
+E:\As\Sentence_Word_Counter\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.dll
+E:\As\Sentence_Word_Counter\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.pdb
+E:\As\Sentence_Word_Counter\Sentence_Word_Counter_BAL\obj\Debug\Sentence_Word_Counter_BAL.dll
+E:\As\Sentence_Word_Counter\Sentence_Word_Counter_BAL\obj\Debug\Sentence_Word_Counter_BAL.pdb
+E:\Sentence_Word_Count\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.dll.config
+E:\Sentence_Word_Count\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.dll
+E:\Sentence_Word_Count\Sentence_Word_Counter_BAL\bin\Debug\Sentence_Word_Counter_BAL.pdb
+E:\Sentence_Word_Count\Sentence_Word_Counter_BAL\obj\Debug\Sentence_Word_Counter_BAL.dll
+E:\Sentence_Word_Count\Sentence_Word_Counter_BAL\obj\Debug\Sentence_Word_Counter_BAL.pdb
